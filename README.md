@@ -1,1 +1,1 @@
-# Johns-Hopkinks-Test
+# Johns-Hopkins-Test
